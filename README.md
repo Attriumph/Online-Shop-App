@@ -19,15 +19,8 @@ Developed an MVC E-Commerce web app, including products management, shopping car
 ## 3. App Screenshot
 
 <div align="center">    
- <img src="./githubImage/home.png" alt="homepage" width="800" style="display:inline"/>
- <img src="./githubImage/signup.png" alt="info" width="300" style="display:inline" />
- <img src="./githubImage/login.png" alt="info" width="300" style="display:inline" />
- <img src="./githubImage/demo.gif" alt="info" width="800" style="display:inline" />
+ <img src="./githubImage/home.png" alt="homepage" width="800"/>
+ <img src="./githubImage/signup.png" alt="info" width="800"/>
+ <img src="./githubImage/login.png" alt="info" width="800"/>
+ <img src="./githubImage/demo.gif" alt="info" width="800"/>
 </div>
-
-## 4. To-do
-
-- Allow user to modify Avatar
-- Add job post functionality
-- Add search functionality
-- Add message fucntionality
